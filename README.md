@@ -7,7 +7,7 @@ I'm Josipa, a passionate individual with a strong background in Computer and Inf
 ---
 
 ### 🎓 Education
-I have successfully completed my studies at the Faculty of Traffic and Communications, where I obtained a solid foundation in Computer and Information Technology. Throughout my academic journey, I gained in-depth knowledge of various programming languages, software development methodologies, data structures, and algorithms.
+I have successfully completed my studies at the <a href= 'https://fsk.unsa.ba/'> Faculty of Traffic and Communications </a>, where I obtained a solid foundation in Computer and Information Technology. Throughout my academic journey, I gained in-depth knowledge of various programming languages, software development methodologies, data structures, and algorithms.
 <p align= 'center'>
   <img width= '100' src= 'https://i2.wp.com/af.unsa.ba/wp-content/uploads/2020/06/logo_AFdrmreze.png?fit=835%2C819&ssl=1](https://fsk.unsa.ba/wp/wp-content/uploads/2020/09/unsa_320-e1600370914431.png'>
   <img src= 'https://fsk.unsa.ba/wp/wp-content/uploads/2020/09/download-1-e1600370867178.png'>
@@ -16,7 +16,7 @@ I have successfully completed my studies at the Faculty of Traffic and Communica
 ---
 
 ### 💼 Professional Experience
-As a Python instructor at Algorithmics, my primary role is to facilitate the learning process and guide students through their Python programming journey. I design engaging and interactive lessons, create practical coding exercises, and provide individualized support to help students grasp the concepts effectively.
+As a Python instructor at <a href= 'https://novo-sarajevo.alg.academy/bs'> Algorithmics </a>, my primary role is to facilitate the learning process and guide students through their Python programming journey. I design engaging and interactive lessons, create practical coding exercises, and provide individualized support to help students grasp the concepts effectively.
 <p align= 'center'>
     <img width= '300' src= "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/2174c0976b1fdee6d3c09fef8f17be5b.png">
 </p>
@@ -24,7 +24,7 @@ As a Python instructor at Algorithmics, my primary role is to facilitate the lea
 ---
 
 ### 🎨 UI / UX design
-I find great satisfaction in designing intuitive and engaging user interfaces that seamlessly blend aesthetics and functionality. I have expanded my skill set by participating in the intensive Product Arena program at Tech387. This immersive experience has equipped me with a deep understanding of user-centered design principles, interaction design, information architecture, and prototyping.
+I find great satisfaction in designing intuitive and engaging user interfaces that seamlessly blend aesthetics and functionality. I have expanded my skill set by participating in the intensive Product Arena program at <a href= 'https://www.tech387.com/'> Tech387 </a>. This immersive experience has equipped me with a deep understanding of user-centered design principles, interaction design, information architecture, and prototyping.
 <p align= 'center'>
     <img width= '100' src= "https://global-uploads.webflow.com/6245a9d0497b5720bead1f55/6389f8c682f66bddb44afeab_Tech387_vertical_logo.png">
 </p>
