@@ -1,5 +1,8 @@
-# Hi there! 👋
-I'm Josipa, a passionate individual with a strong background in Computer and Information Technology. I have recently discovered my love for frontend design and aspire to pursue a career in this field.
+# 👋 Hi there! 
+I'm Josipa, a passionate individual with a strong background in Computer and Information Technology. I have recently discovered my love for frontend development and aspire to pursue a career in this field.
+<p align= 'center'>
+    <img width= '300' src= "https://storage.googleapis.com/ureify-strapi-assets/Job_Search_for_Front_End_Developer_b8b113ec25/Job_Search_for_Front_End_Developer_b8b113ec25.jpg">
+</p>
 
 ---
 
@@ -30,6 +33,7 @@ I find great satisfaction in designing intuitive and engaging user interfaces th
 
 ### 🧰 Languages and Tools
 
+
 <img align="left" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -54,5 +58,7 @@ I find great satisfaction in designing intuitive and engaging user interfaces th
 I have a strong passion for continuous learning and personal growth. My internship at the Securities Commission has further fueled my motivation to excel in the IT sector. I am eager to expand my knowledge and skills especially in frontend development, keeping up with the latest industry trends and best practices.
 
 ---
+### 📫 Contact
+If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out to me. You can contact me via [Email](bosnjakjosipa01@gmail.com)  or find me on <a href= 'https://www.linkedin.com/in/josipa-bo%C5%A1njak-720686257'> LinkedIn </a>.
 
 
