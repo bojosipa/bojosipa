@@ -54,6 +54,7 @@ I find great satisfaction in designing intuitive and engaging user interfaces th
 
 <br>
 <br>
+
 ---
 
 ### 💡 Commitment to Growth
