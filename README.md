@@ -52,8 +52,8 @@ I find great satisfaction in designing intuitive and engaging user interfaces th
 <img align="left" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 
-<br />
-
+<br>
+<br>
 ---
 
 ### 💡 Commitment to Growth
